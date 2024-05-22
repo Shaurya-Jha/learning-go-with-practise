@@ -10,3 +10,5 @@ All the things learned with practise in Go language as of 2024.
 - [x] switch statement
 - [x] arrays
 - [x] slices
+- [x] maps
+- [ ] range
