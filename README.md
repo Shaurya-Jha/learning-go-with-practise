@@ -11,4 +11,8 @@ All the things learned with practise in Go language as of 2024.
 - [x] arrays
 - [x] slices
 - [x] maps
-- [ ] range
+- [x] range
+- [x] functions
+- [x] variadic functions
+- [x] closures
+- [x] recursion
