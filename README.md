@@ -16,3 +16,9 @@ All the things learned with practise in Go language as of 2024.
 - [x] variadic functions
 - [x] closures
 - [x] recursion
+- [x] pointers
+- [x] strings and runes
+- [x] structs
+- [x] methods
+- [x] interfaces
+- [x] enums
